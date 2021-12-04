@@ -6,9 +6,9 @@ The file supports all major computer platform.
 If any security updates, compatibility updates arrive,
 they will and shall be noted below in the table.
 
-| Version | Supported Platform    |
-| ------- | --------------------- |
-| 1.0.0   | Windows, MacOS, Linux |
+|  Version  | Supported Platform    |
+| --------- | --------------------- |
+| v1.0.0-dev| Windows, MacOS, Linux |
 
 ## Reporting a Vulnerability
 
