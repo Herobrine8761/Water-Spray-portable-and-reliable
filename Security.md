@@ -3,7 +3,7 @@
 ## Version and Supported Platforms
 
 The file supports all major computer platform.
-If any security updates, compatiblity updates arrive,
+If any security updates, compatibility updates arrive,
 they will and shall be noted below in the table.
 
 | Version | Supported Platform    |
